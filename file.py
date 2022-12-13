@@ -28,7 +28,7 @@ dict_colors['Yellow'] = yellow_rgb
 dict_colors['Blue'] = blue_rgb
 print(dict_colors)
 
-3
+#3
 
 import random
 
